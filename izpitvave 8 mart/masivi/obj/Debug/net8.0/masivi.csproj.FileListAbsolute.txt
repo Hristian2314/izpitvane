@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\bin\Debug\net8.0\masivi.exe
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\bin\Debug\net8.0\masivi.deps.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\bin\Debug\net8.0\masivi.runtimeconfig.json
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\bin\Debug\net8.0\masivi.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\bin\Debug\net8.0\masivi.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\refint\masivi.dll
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.pdb
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\masivi.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-6\Desktop\9a\izpitvave 8 mart\masivi\obj\Debug\net8.0\ref\masivi.dll
